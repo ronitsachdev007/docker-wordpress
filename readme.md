@@ -4,5 +4,6 @@ wordpress admin password- root
 myphpadmin username and password- wordpress
 
 SETUP DETAILS->
-run- 
+run-
+
 docker-compose up -d
