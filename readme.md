@@ -1,9 +1,8 @@
-wordpress admin username- root
-wordpress admin password- root
+__wordpress admin username-__ root
+__wordpress admin password-__ root
 
-myphpadmin username and password- wordpress
+__myphpadmin username and password-__ wordpress
 
-SETUP DETAILS->
-run-
+## SETUP DETAILS->
 
-docker-compose up -d
+    docker-compose up -d
